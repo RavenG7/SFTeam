@@ -35,7 +35,7 @@ by staff through the web interface.
 | R3 | Requirements Documentation Officer / Business Analyst | Li Cheuk Fung | 1432036 | [Kennethli13](https://github.com/Kennethli13) |
 | R4 | Frontend Lead + Product Architect A | Yuan Chong Jun | 13705584| [RookieVENENO](https://github.com/RookieVENENO/) |
 | R5 | Frontend Developer | Tan Yuan Ting | 13374348 | [Christine049](https://github.com/Christine049) |
-| R6 | Backend Lead + Product Architect B | Hu Qing Kai | 13661454 | TBD |
+| R6 | Backend Lead + Product Architect B | Hu Qing Kai | 13661454 | [123dvfj123](https://github.com/123dvfj123?tab=repositories)|
 | R7 | Backend Developer | Huang Wei Jia | 13686319 | [Momoka17](https://github.com/momoka17)|
 | R8 | QA Lead | Wu Kehao | 14612273 | [fannaodawang](https://github.com/fannaodawang) |
 | R9 | Documentation & Quality | Guoyuhui | 14294174 | [RavenG7](https://github.com/RavenG7) |
