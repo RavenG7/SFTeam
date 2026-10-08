@@ -30,7 +30,7 @@ by staff through the web interface.
 
 | Role ID | Role | Name | Student ID | GitHub |
 | :---: | --- | --- | --- | --- |
-| RI | Project Lead / Team Leader | Liu Jialiao | 13662451 | [Dango-coder6](https://github.com/Dango-coder6) |
+| RI | Project Lead / Team Leader | Liu Jialiao | 13662451 | [Django-coder6](https://github.com/Django-coder6) |
 | R2 | Product Owner | Chan Yin Cho | 14489395 | [ohcyc246](https://github.com/ohcyc246) |
 | R3 | Requirements Documentation Officer / Business Analyst | Li Cheuk Fung | TBD | [Kennethli13](https://github.com/Kennethli13) |
 | R4 | Frontend Lead + Product Architect A | Yuan Chong Jun | TBD | TBD |
