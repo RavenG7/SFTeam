@@ -37,7 +37,7 @@ by staff through the web interface.
 | R5 | Frontend Developer | Tan Yuan Ting | 13374348 | [Christine049](https://github.com/Christine049) |
 | R6 | Backend Lead + Product Architect B | Hu Qing Kai | 13661454 | TBD |
 | R7 | Backend Developer | Huang Wei Jia | 13686319 | [Momoka17](https://github.com/momoka17)|
-| R8 | QA Lead | WU Kehao | 14612273 | [fannaodawang](https://github.com/fannaodawang) |
+| R8 | QA Lead | Wu Kehao | 14612273 | [fannaodawang](https://github.com/fannaodawang) |
 | R9 | Documentation & Quality | Guoyuhui | 14294174 | [RavenG7](https://github.com/RavenG7) |
 | R10 | Infrastructure & Integration DevOps | Chan Sung Ming | 14480597 | [smcheese9731-sys](https://github.com/smcheese9731-sys) |
 
