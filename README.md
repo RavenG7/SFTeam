@@ -32,7 +32,7 @@ by staff through the web interface.
 | :---: | --- | --- | --- | --- |
 | RI | Project Lead / Team Leader | Liu Jialiao | 13662451 | [Django-coder6](https://github.com/Django-coder6) |
 | R2 | Product Owner | Chan Yin Cho | 14489395 | [ohcyc246](https://github.com/ohcyc246) |
-| R3 | Requirements Documentation Officer / Business Analyst | Li Cheuk Fung | TBD | [Kennethli13](https://github.com/Kennethli13) |
+| R3 | Requirements Documentation Officer / Business Analyst | Li Cheuk Fung | 1432036 | [Kennethli13](https://github.com/Kennethli13) |
 | R4 | Frontend Lead + Product Architect A | Yuan Chong Jun | 13705584| [RookieVENENO](https://github.com/RookieVENENO/) |
 | R5 | Frontend Developer | Tan Yuan Ting | 13374348 | [Christine049](https://github.com/Christine049) |
 | R6 | Backend Lead + Product Architect B | Hu Qing Kai | 13661454 | TBD |
