@@ -1,10 +1,4 @@
-
----
-
-## 3. `GLOSSARY.md`
-
-```markdown
-# Glossary
+ Glossary
 
 Terms used across the code, the documentation and the report. If a term is
 not in this list, add it here before using it elsewhere so the whole team
@@ -154,18 +148,6 @@ documents or the report.
 | scan to store, 掃碼入櫃 | intake |
 | hardware, 硬體 | (not applicable - this system controls no equipment) |
 | picking code, 取貨碼 | pickup code |
-
-## Naming conventions
-
-### Files and folders
-
-- Folders and files are lower case.
-- Words inside a file name are separated by a hyphen, for example
-  `test-cases-pickup.md`, `risk-register.md`.
-- Use the `.md` extension for documents.
-- Do not use spaces in file names inside the repository.
-
-### Dated documents
 
 Meeting minutes, interview notes, survey results and weekly reports start with
 the date in `YYYYMMDD` form:
