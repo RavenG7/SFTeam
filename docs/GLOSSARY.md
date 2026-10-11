@@ -149,6 +149,3 @@ documents or the report.
 | hardware, 硬體 | (not applicable - this system controls no equipment) |
 | picking code, 取貨碼 | pickup code |
 
-Meeting minutes, interview notes, survey results and weekly reports start with
-the date in `YYYYMMDD` form:
-
